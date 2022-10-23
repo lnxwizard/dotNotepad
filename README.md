@@ -1,7 +1,4 @@
 # dotNotepad
 Light Weight, Easy to Use and Open Source.
 
-
-
-https://user-images.githubusercontent.com/91411319/197394508-f348c54e-4758-43ef-9ff8-a8affaf34703.mp4
-
+![Capture](https://user-images.githubusercontent.com/91411319/197394660-018af760-e25d-4643-bc63-c40348e12d74.PNG)
