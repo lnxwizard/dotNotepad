@@ -26,7 +26,7 @@
   <img src="https://user-images.githubusercontent.com/91411319/200133739-879a881d-4da6-490c-91db-2f69fa3b1d53.png">
 </p>
 
-<h2 align="center"> <b> .Notepad Have 6 Language Preference </b> </h2>
+<h2 align="center"> <b> .Notepad Have 6 Language Support (Only English and Turkish working for now) </b> </h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91411319/200133537-b7f0e002-d2f3-49e6-bf7d-666797165ef9.png">
 </p>
