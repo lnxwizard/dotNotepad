@@ -19,6 +19,9 @@
   <tr align="center">
     <td> .NET SDK Version 6 </td>
   </tr>
+  <tr align="center">
+      <td> 344 KB Free Space </td>
+  </tr>
 </table>
 
 <h2 align="center"> <b> Main User Interface </b> </h2>
