@@ -12,6 +12,9 @@
   <a href="https://github.com/AlperAkca79/dotNotepad/releaseshttps://github.com/AlperAkca79/dotNotepad/releases"><img src="https://img.shields.io/github/downloads/AlperAkca79/dotNotepad/total?label=downloads&style=flat-square"></a>
   <a href="https://github.com/AlperAkca79/dotNotepad/releases"><img src="https://img.shields.io/badge/Size-344%20KB-yellow?style=flat-square&logo=appveyor"></a>
 </p>
+<p align="center">
+  <a href="https://dotnotepad.github.io/"><img src="https://img.shields.io/badge/OFFICIAL%20WEBSITE-VISIT-lightgray?style=for-the-badge&logo=appveyor"></a>
+</p>
  
 <table border="1" align="center">
   <tr align="center">
