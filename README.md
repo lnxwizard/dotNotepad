@@ -15,13 +15,11 @@
  
 <table border="1" align="center">
   <tr align="center">
-    <td> Requirements </td>
-  </tr>
-  <tr align="center">
+    <th rowspan="2"> Requirements </th>
     <td> .NET SDK Version 6 </td>
   </tr>
   <tr align="center">
-      <td> 344 KB Free Space </td>
+    <td> 344 KB Free Space </td>
   </tr>
 </table>
 
