@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/github/stars/AlperAkca79/dotNotepad?style=flat-square">
   <img src="https://img.shields.io/github/license/AlperAkca79/dotNotepad?style=flat-square">
   <img src="https://img.shields.io/github/downloads/AlperAkca79/dotNotepad/total?label=downloads&style=flat-square">
+  <img src="https://img.shields.io/badge/Size-344%20KB-yellow?style=flat-square&logo=appveyor">
 </p>
  
 <table border="1" align="center">
