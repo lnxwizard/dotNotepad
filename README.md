@@ -5,12 +5,12 @@
 <h1 align="center"> <b> .Notepad </b> </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues/AlperAkca79/dotNotepad?style=flat-square">
-  <img src="https://img.shields.io/github/forks/AlperAkca79/dotNotepad?style=flat-square">
-  <img src="https://img.shields.io/github/stars/AlperAkca79/dotNotepad?style=flat-square">
-  <img src="https://img.shields.io/github/license/AlperAkca79/dotNotepad?style=flat-square">
-  <img src="https://img.shields.io/github/downloads/AlperAkca79/dotNotepad/total?label=downloads&style=flat-square">
-  <img src="https://img.shields.io/badge/Size-344%20KB-yellow?style=flat-square&logo=appveyor">
+  <a href="https://github.com/AlperAkca79/dotNotepad/issues"><img src="https://img.shields.io/github/issues/AlperAkca79/dotNotepad?style=flat-square"></a>
+  <a href="https://github.com/AlperAkca79/dotNotepad/network/members"><img src="https://img.shields.io/github/forks/AlperAkca79/dotNotepad?style=flat-square"></a>
+  <a href="https://github.com/AlperAkca79/dotNotepad/stargazers"><img src="https://img.shields.io/github/stars/AlperAkca79/dotNotepad?style=flat-square"></a>
+  <a href="https://github.com/AlperAkca79/dotNotepad/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AlperAkca79/dotNotepad?style=flat-square"></a>
+  <a href="https://github.com/AlperAkca79/dotNotepad/releaseshttps://github.com/AlperAkca79/dotNotepad/releases"><img src="https://img.shields.io/github/downloads/AlperAkca79/dotNotepad/total?label=downloads&style=flat-square"></a>
+  <a href="https://github.com/AlperAkca79/dotNotepad/releases"><img src="https://img.shields.io/badge/Size-344%20KB-yellow?style=flat-square&logo=appveyor"></a>
 </p>
  
 <table border="1" align="center">
