@@ -44,7 +44,7 @@
   <img src="https://user-images.githubusercontent.com/91411319/200134342-87852b41-02b3-4d88-9a6d-149a39dba8aa.png">
 </p>
 
-<h2 align="center"> <b> About .Notepad </b> </h2>
+<h2 align="center"><b> About .Notepad </b></h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91411319/200133460-c48854b1-997c-4b55-b244-0813a6cf6ba9.png">
 </p>
