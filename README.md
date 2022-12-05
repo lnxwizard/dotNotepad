@@ -19,7 +19,7 @@
 <table border="1" align="center">
   <tr align="center">
     <th rowspan="3"> Requirements </th>
-    <td> .NET Frameword 4.7.2 or Higher </td>
+    <td> .NET Framework 4.7.2 or Higher </td>
   </tr>
   <tr align="center">
     <td> 344 KB Free Space </td>
